@@ -4,3 +4,4 @@ vim.cmd("set shiftwidth=4")
 vim.cmd("set expandtab")
 vim.cmd("colorscheme nordic")
 vim.opt.termguicolors = true
+vim.cmd("set clipboard=unnamedplus")
